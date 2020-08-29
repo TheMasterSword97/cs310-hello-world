@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Jon-Eric Frederick
  */
 
 public class Class2 {
