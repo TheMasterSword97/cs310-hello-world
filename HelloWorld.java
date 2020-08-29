@@ -1,6 +1,6 @@
 /**
  *
- * @author Jon-Eric Frederick 1
+ * @author Jon-Eric Frederick 
  */
 
 public class HelloWorld {
